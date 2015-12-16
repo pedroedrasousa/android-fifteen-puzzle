@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="dialog_box_alpha" format="float">0.85</string>
+
+    <string name="gui_dialog_text_pos">0.1f, 0.15f</string>
+    <string name="gui_dialog_text_size_large">0.1f, 0.07f</string>
+    <string name="gui_text_size_small">0.06f, 0.04f</string>
+
+    <string name="gui_dialog_text_size_small">0.07f, 0.042f</string>
+
+    <string name="gui_dialog_box_pos">0.05f, 0.25f</string>
+    <string name="gui_dialog_box_size">0.9f, 0.4f</string>
+
+
+    <string name="gui_box_color">#335148</string>
+    <string name="gui_text_header_color">#FFFFFF</string>
+
+
+    <string name="gui_btn_color">#D65000</string>
+    <string name="gui_btn_size">0.35f, 0.1f</string>
+
+    <string name="gui_classic_btn_color">#D65000</string>
+    <string name="gui_challenge_btn_color">#D65000</string>
+
+    <string name="gui_lvl_tile_size">0.21f, 0.11f</string>
+
+    <string name="gui_bg_color">#335148</string>
+
+    <string name="gui_title_color">-1.0f, -1.0f, -1.0f, -1.0f</string>
+
+    <string name="gui_dialog_btn_pos_left">0.08f, 0.63f</string>
+    <string name="gui_dialog_btn_pos_right">0.52f, 0.63f</string>
+
+</resources>

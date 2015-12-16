@@ -1,0 +1,516 @@
+
+level001 Challenge 1
+desc Solve the puzzle in 3 moves
+moves 3
+solution 2 5 6
+board 3x3
+01 00 03 
+04 02 05 
+07 08 06 
+
+level002 Challenge 2
+desc Solve the puzzle in 1 move
+moves 1
+solution 8
+board 3x3
+01 02 03 
+04 05 06 
+00 07 08 
+
+level003 Challenge 3
+desc Solve the puzzle in 4 moves
+moves 4
+solution 1 4 5 8 - diagonal
+board 3x3
+00 02 03 
+01 04 06 
+07 05 08 
+
+level004 Challenge 4
+desc Solve the puzzle in 4 moves
+moves 4
+solution 2 1 4 5 6
+board 3x3
+02 00 03 
+01 04 05 
+07 08 06 
+
+level005 Challenge 5
+desc Solve the puzzle in 2 moves
+moves 2
+solution 6 2 - slide2
+board 3x3
+00 01 02 
+04 05 03 
+07 08 06 
+
+level006 Challenge 6
+desc Solve the puzzle in 6 moves
+moves 6
+solution 4 2 1 4 5 8
+board 3x3
+02 04 03 
+01 00 06 
+07 05 08 
+
+##################################################
+
+level007 Challenge 7
+desc Solve the puzzle in 5 moves
+moves 5
+solution 6 2 5 4 1 - 02-04-2014
+board 3x3
+00 05 02 
+01 04 03 
+07 08 06 
+
+level008 Challenge 8
+desc Solve the puzzle in 4 moves
+moves 4
+solution 8 4 2 6
+board 3x3
+04 01 02 
+07 05 03 
+08 00 06 
+
+level009 Challenge 9
+desc Solve the puzzle in 5 moves
+moves 5
+solution 6 2 5 7 4
+board 3x3
+00 05 02 
+01 08 03 
+04 07 06 
+
+level010 Challenge 10
+desc Solve the puzzle in 5 moves
+moves 5
+solution 8 5 1 4 5
+board 3x3
+04 01 03 
+07 02 06 
+05 00 08 
+
+level011 Challenge 11
+desc Solve the puzzle in 6 moves
+moves 6
+solution 8 5 4 1 2 6
+board 3x3
+02 03 06 
+01 04 00 
+07 05 08 
+
+
+level012 Challenge 12
+desc Solve the puzzle in 7 moves
+moves 7
+solution 2 8 4 1 2 5 6
+board 3x3
+04 01 03 
+07 00 05 
+08 02 06 
+
+level013 Challenge 13
+desc Solve the puzzle in 5 moves
+moves 5
+solution - All arround 02-04-2014 hard
+board 3x3
+04 01 00 
+07 05 02 
+08 06 03 
+
+level014 Challenge 14
+desc Solve the puzzle in 8 moves
+moves 8
+solution 6 5 2 1 4 2 8 6
+board 3x3
+04 01 03 
+02 08 05 
+07 06 00 
+
+level015 Challenge 15
+desc Solve the puzzle in 6 moves
+moves 6
+solution 8 5 1 4 2 8
+board 3x3
+04 01 03 
+02 06 08 
+07 05 00
+
+level016 Challenge 16
+desc Solve the puzzle in 9 moves
+moves 9
+solution 8 4 5 2 3 6 2 3 1
+board 3x3
+00 01 06 
+05 03 02 
+04 07 08  
+
+##################################################
+################################################## 4x3
+
+level017 Challenge 17
+desc Solve the puzzle in 4 moves
+moves 4
+solution 1 5 8 9
+board 3x4
+00 01 03 
+04 02 06 
+07 05 08 
+10 11 09 
+
+
+level018 Challenge 18
+desc Solve the puzzle in 3 moves
+moves 3
+solution 5 2 9
+board 3x4
+01 05 02 
+04 08 03 
+07 11 06 
+10 00 09 
+
+level019 Challenge 19
+desc Solve the puzzle in 5 moves
+moves 5
+solution 8 4 1 8 11 - 02-04-2014
+board 3x4
+04 01 03 
+07 02 06 
+10 05 09 
+08 00 11 
+
+level020 Challenge 20
+desc Solve the puzzle in 5 moves
+moves 5
+solution 2 4 7 8 11
+board 3x4
+02 03 00 
+01 05 06 
+04 07 09 
+10 08 11 
+
+
+level021 Challenge 21
+desc Solve the puzzle in 4 moves
+moves 4
+solution 8 4 2 9
+board 3x4
+04 01 02 
+07 05 03 
+08 00 06 
+10 11 09 
+
+level022 Challenge 22
+desc Solve the puzzle in 8 moves
+moves 8
+solution 9 8 5 4 1 2 4 6
+board 3x4
+02 04 03 
+01 06 00 
+07 05 08 
+10 11 09 
+
+
+
+level023 Challenge 23
+desc Solve the puzzle in 4 moves
+moves 4
+solution 11 7 2 6 -  multiple slide - all arround
+board 3x4
+02 03 06 
+01 05 09 
+04 08 11 
+07 10 00 
+
+level024 Challenge 24
+desc Solve the puzzle in 12 moves or less
+moves 12
+solution 4 2 6 9 7 8 10 7 8 11
+board 3x4
+04 01 02 
+00 05 03 
+10 09 06 
+08 07 11 
+
+
+
+
+
+##################################################
+
+
+
+
+level025 Challenge 25
+desc Solve the puzzle in 6 moves
+moves 6
+solution 11 7 5 2 3 6
+board 3x4
+01 03 06 
+05 02 09 
+04 08 11 
+07 10 00 
+
+
+
+
+level026 Challenge 26
+desc Solve the puzzle in 15 moves or less
+moves 15
+solution 11 8 5 6 9 11 8 10 7 4 1 2
+board 3x4
+02 00 03 
+01 06 09 
+04 05 11 
+07 10 08 
+
+level027 Challenge 27
+desc Solve the puzzle in 7 moves
+moves 7
+solution 2 6 9 8 5 7 11
+board 3x4
+00 01 02 
+05 08 03 
+04 09 06 
+07 10 11 
+
+level028 Challenge 28
+desc Solve the puzzle in 12 moves or less
+moves 12
+solution 9 5 2 4 1 2 5 8 7 10 11 - solvable 10
+board 3x4
+04 01 03 
+02 05 06 
+08 09 00 
+07 10 11 
+
+
+level029 Challenge 29
+desc Solve the puzzle in 7 moves
+moves 7
+solution 9 8 11 10 7 5 2
+board 3x4
+01 00 03 
+05 02 06 
+04 11 08 
+07 10 09 
+
+level030 Challenge 30
+desc Solve the puzzle in 25 moves or less
+moves 25
+solution 11 8 5 6 3 2 1 4 6 5 8 11 9 - solvable in 12
+board 3x4
+04 01 02 
+06 05 03 
+07 08 00 
+10 11 09 
+
+level031 Challenge 31
+desc Solve the puzzle in 8 moves
+moves 8
+solution 7 5 2 4 7 8 5 9 - 02-04-2014
+board 3x4
+02 03 05 
+01 08 06 
+04 00 07 
+10 11 09 
+
+level032 Challenge 32
+desc Solve the puzzle in 25 moves or less
+moves 25
+solution 11 10 7 4 5 8 9 6 3 2 8 9 6 3 - solvable in 13
+board 3x4
+01 08 02 
+05 09 00 
+04 06 03 
+07 10 11 
+
+##################################################
+################################################## 4x4
+
+level033 Challenge 33
+desc Solve the puzzle in 4 moves
+moves 4
+solution 11 7 10 15 - facil iltimo e penultimo s2
+board 4x4
+01 02 03 04 
+05 07 11 08 
+09 06 00 12 
+13 10 14 15 
+
+level034 Challenge 34
+desc Solve the puzzle in 7 moves
+moves 7
+solution 5 1 2 6 7 11 12
+board 4x4
+05 01 03 04 
+09 02 06 08 
+13 10 07 11 
+00 14 15 12 
+
+level035 Challenge 35
+desc Solve the puzzle in 4 moves
+moves 4
+solution  - allarround
+board 4x4
+05 01 02 03 
+09 06 07 04 
+13 10 11 08 
+14 15 12 00 
+
+level036 Challenge 36
+desc Solve the puzzle in 8 moves
+moves 8
+solution  - zig zag down facil
+board 4x4
+01 02 03 04 
+06 00 07 08 
+05 09 15 11 
+13 10 14 12 
+
+level037 Challenge 37
+desc Solve the puzzle in 6 moves
+moves 6
+solution 8 4 3 6 9 15
+board 4x4
+01 02 04 08 
+06 07 03 00 
+05 10 11 12 
+09 13 14 15 
+
+level038 Challenge 38
+desc Solve the puzzle in 7 moves
+moves 7
+solution 06 10 7 6 10 11 15
+board 4x4
+01 02 03 04 
+05 07 10 08 
+00 09 06 12 
+13 14 11 15 
+
+level039 Challenge 39
+desc Solve the puzzle in 10 moves or less
+moves 10
+solution 6 10 7 12 8 4 3 7 11 15
+board 4x4
+01 02 04 08 
+05 00 03 12 
+09 06 10 07 
+13 14 11 15 
+
+
+level040 Challenge 40
+desc Solve the puzzle in 20 moves or less
+moves 20
+solution R 12 8 4 3 2 6 7 11 10 14 13 9 - solvable in 9
+board 4x4
+01 06 02 03 
+05 07 11 04 
+00 14 10 08 
+09 13 15 12 
+
+
+##################################################
+
+level041 Challenge 41
+desc Solve the puzzle in 5 moves
+moves 5
+solution 14 9 6 11 15
+board 4x4
+01 02 03 04 
+09 05 06 08 
+13 10 07 12 
+14 11 00 15 
+
+level042 Challenge 42
+desc Solve the puzzle in 6 moves
+moves 6
+solution 15 9 6 11 15 12
+board 4x4
+01 02 03 04 
+06 07 11 08 
+05 10 14 00 
+09 13 15 12 
+
+
+level043 Challenge 43
+desc Solve the puzzle in 5 moves
+moves 5
+solution 15 11 2 6 13
+board 4x4
+01 06 02 04 
+05 10 03 08 
+09 14 07 12 
+00 13 11 15 
+
+
+
+level044 Challenge 44
+desc Solve the puzzle in 7 moves
+moves 7
+solution 14 12 8 7 2 9 15
+board 4x4
+02 03 07 04 
+01 06 08 12 
+05 10 11 15 
+00 09 13 14 
+
+
+
+level045 Challenge 45
+desc Solve the puzzle in 5 moves
+moves 5
+solution 7 11 6 3 12
+board 4x4
+01 06 02 03 
+05 10 00 04 
+09 11 07 08 
+13 14 15 12 
+
+
+
+level046 Challenge 46
+desc Solve the puzzle in 8 moves
+moves 8
+solution 12 11 7 2 5 14 10 7
+board 4x4
+05 01 02 04 
+09 06 03 08 
+13 07 00 11 
+14 10 15 12 
+
+level047 Challenge 47
+desc Solve the puzzle in 25 moves or less
+moves 25
+solution 15 11 12 8 4 3 2 1 5 9 10 6 9 5 - solvable in 12
+board 4x4
+00 01 02 03 
+05 09 07 04 
+10 06 12 08 
+13 14 11 15 
+
+level048 Final Challenge
+desc Solve the puzzle in 10 moves
+moves 10
+solution 15 11 6 10 13 9 2 6 8 12
+board 4x4
+02 03 06 04 
+01 10 08 12 
+05 14 07 15 
+09 13 11 00 
+
+
+
+
+
+
+
+level049 Impossible Challenge
+desc Don't waste your time trying to solve this. You have been warned.
+moves -1
+board 4x4
+01 02 03 04 
+05 06 07 08 
+09 10 11 12 
+13 15 14 00 
